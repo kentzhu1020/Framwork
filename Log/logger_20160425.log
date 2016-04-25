@@ -1,0 +1,58 @@
+2016-04-25 17:34	[-] Error occur @set_up
+2016-04-25 17:34	[-] The Error is set up browser driver failed, details is Message: The browser appears to have exited before we could connect. If you specified a log_file in the FirefoxBinary constructor, check it for details.
+
+2016-04-25 17:36	[-] Error occur @set_up
+2016-04-25 17:36	[-] The Error is set up browser driver failed, details is Message: Can't load the profile. Profile Dir: %s If you specified a log_file in the FirefoxBinary constructor, check it for details.
+
+2016-04-25 17:36	[+] Kill the running selenium process
+2016-04-25 17:37	[-] Error occur @set_up
+2016-04-25 17:37	[-] The Error is set up browser driver failed, details is Message: Can't load the profile. Profile Dir: %s If you specified a log_file in the FirefoxBinary constructor, check it for details.
+
+2016-04-25 17:37	[-] Error occur @navigate_to_hao123
+2016-04-25 17:37	[-] Error is 'NoneType' object has no attribute 'click'
+2016-04-25 17:38	[-] Error occur @navigate_to_hao123
+2016-04-25 17:38	[-] Error is 'NoneType' object has no attribute 'click'
+2016-04-25 17:38	[-] Error occur @navigate_to_hao123
+2016-04-25 17:38	[-] Error is 'NoneType' object has no attribute 'click'
+2016-04-25 17:38	[-] Error occur @navigate_to_hao123
+2016-04-25 17:38	[-] Error is 'NoneType' object has no attribute 'click'
+2016-04-25 17:38	[+] Kill the running selenium process
+2016-04-25 17:38	[+] Trying to start a webdriver but not the first one
+2016-04-25 17:40	[-] Error occur @set_up
+2016-04-25 17:40	[-] The Error is set up browser driver failed, details is Message: Can't load the profile. Profile Dir: %s If you specified a log_file in the FirefoxBinary constructor, check it for details.
+
+2016-04-25 17:41	[-] Error occur @set_up
+2016-04-25 17:41	[-] The Error is set up browser driver failed, details is Message: Can't load the profile. Profile Dir: %s If you specified a log_file in the FirefoxBinary constructor, check it for details.
+
+2016-04-25 17:44	[-] Error occur @set_up
+2016-04-25 17:44	[-] The Error is set up browser driver failed, details is Message: Can't load the profile. Profile Dir: %s If you specified a log_file in the FirefoxBinary constructor, check it for details.
+
+2016-04-25 17:45	[-] Error occur @navigate_to_hao123
+2016-04-25 17:45	[-] Error is 'NoneType' object has no attribute 'click'
+2016-04-25 17:46	[-] Error occur @navigate_to_hao123
+2016-04-25 17:46	[-] Error is 'NoneType' object has no attribute 'click'
+2016-04-25 17:50	[-] Error occur @set_up
+2016-04-25 17:50	[-] The Error is set up browser driver failed, details is Message: Can't load the profile. Profile Dir: %s If you specified a log_file in the FirefoxBinary constructor, check it for details.
+
+2016-04-25 17:55	[-] Error occur @set_up
+2016-04-25 17:55	[-] The Error is set up browser driver failed, details is Message: Can't load the profile. Profile Dir: %s If you specified a log_file in the FirefoxBinary constructor, check it for details.
+
+2016-04-25 17:56	[-] Error occur @set_up
+2016-04-25 17:56	[-] The Error is set up browser driver failed, details is Message: Can't load the profile. Profile Dir: %s If you specified a log_file in the FirefoxBinary constructor, check it for details.
+
+2016-04-25 17:57	[-] Error occur @set_up
+2016-04-25 17:57	[-] The Error is set up browser driver failed, details is Message: Can't load the profile. Profile Dir: %s If you specified a log_file in the FirefoxBinary constructor, check it for details.
+
+2016-04-25 17:59	[-] Error occur @set_up
+2016-04-25 17:59	[-] The Error is set up browser driver failed, details is Message: The browser appears to have exited before we could connect. If you specified a log_file in the FirefoxBinary constructor, check it for details.
+
+2016-04-25 18:01	[-] Error occur @search
+2016-04-25 18:01	[-] Error is 'NoneType' object has no attribute 'send_keys'
+2016-04-25 18:02	[-] Error occur @search
+2016-04-25 18:02	[-] Error is 'NoneType' object has no attribute 'send_keys'
+2016-04-25 18:02	[-] Error occur @search
+2016-04-25 18:02	[-] Error is 'NoneType' object has no attribute 'send_keys'
+2016-04-25 18:02	[+] Kill the running selenium process
+2016-04-25 18:01	[+] Trying to start a webdriver but not the first one
+2016-04-25 18:05	[+] Kill the running selenium process
+2016-04-25 18:05	[+] Trying to start a webdriver but not the first one

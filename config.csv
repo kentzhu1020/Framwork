@@ -1,0 +1,6 @@
+ID,TestSuite,ToBeExecuted,Application,Owner
+1,testSuite_smoke,yes,MyApp
+2,testSuite_compatibility_firefox,,MyApp,
+3,testSuite_E2E,yes,MyApp,
+4,testSuite_compatibility_safari,yes,MyApp,
+
